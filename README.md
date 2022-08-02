@@ -7,7 +7,7 @@ Forked from `@bothrs/expo-mixpanel-analytics` to add support for Expo 45.
 ## Installation
 
 ```
-npm install @investengine/expo-mixpanel-analytics --save
+yarn add 'investengine/expo-mixpanel-analytics'
 ```
 
 ## Import
