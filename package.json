@@ -1,5 +1,5 @@
 {
-  "name": "@bothrs/expo-mixpanel-analytics",
+  "name": "@investengine/expo-mixpanel-analytics",
   "version": "3.0.0",
   "description": "Mixpanel integration for use with React Native apps built on Expo 45.",
   "main": "dist/src/index.js",
